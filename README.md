@@ -9,7 +9,7 @@ Just submit a pull request :smile:
 2. Add your name in the readme.md file
 3. Scroll to the bottom and click on "commit changes" 
 4. Congratulations!! You earned a pair of socks
-
+LUKE CHEN
 
 We hope you enjoyed your journey in learning on how to send a pull request. More information on our open source projects is available [here](https://salesforce.github.io/)
 
